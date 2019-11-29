@@ -33,3 +33,6 @@
 
 # Folders
 *Bin
+
+# Generated Folders
+_*
