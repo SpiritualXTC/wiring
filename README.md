@@ -1,14 +1,14 @@
 # Wiring Tutorials
 C++ derivitive of the Freenove Raspberry Pi Tutorials
 
-##Requirements:
+## Requirements:
 
 premake5
 wiringPi
 boost 1.67
 
-##Use
-###Linux
+## Use
+### Linux
 > build.sh <id>
 > ./Build/Bin/Debug/<id>
 
